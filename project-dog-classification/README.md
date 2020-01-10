@@ -1,3 +1,6 @@
+
+This code is a part of repository forked from Udacity repository for Deep Learning nano-degree program. I have implemented this project in the notebook dog_app.ipynb edited in Google Colab. The dataset for code is not included here but they are accessible at the urls specified within dog_app.ipynb. I stored the data in my Google drive account and accessed it from the notebook. You can choose to do it any way you prefer. Here is the description of project given by Udacity: 
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
