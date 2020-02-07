@@ -1,8 +1,10 @@
 *.ipynb_checkpoints
 *.zip*
+*.zip.*
 *.png
 *.jpg
 *.pt
 *.net
 *_files*
+*/data/*
 
