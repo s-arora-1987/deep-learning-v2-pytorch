@@ -41,3 +41,4 @@ def create_lookup_tables(words):
 
     return vocab_to_int, int_to_vocab
 
+
